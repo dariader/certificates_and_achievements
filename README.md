@@ -1,6 +1,7 @@
 # certificates_and_achievements
-The purpose of this repo to store my endless certificates of completion of the courses
+My scholar google profile with publications: https://scholar.google.com/citations?user=_umwt4AAAAAJ&hl=en
 
+The purpose of this repo to store my endless of completion of the courses
 1) https://stepik.org/cert/1840899 << Intro into databases >>
 2) https://stepik.org/cert/1351005 << Programming using Python >>
 3) https://stepik.org/cert/190716 << Molecular Phylogenetics >>
