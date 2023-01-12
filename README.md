@@ -12,6 +12,8 @@ The purpose of this repo to store my certificates of completion of the courses
 8) https://stepik.org/cert/139138 << Intro into Statistics >>
 9) https://stepik.org/cert/136124 << Into into Linux >>
 10) https://stepik.org/cert/131910 << Git Basics>>
-11) LinkedIn: https://www.linkedin.com/learning/python-design-patterns-14304845 <<Python Design Patterns>>
-12) LinkedIn: https://www.linkedin.com/learning/agile-software-development-clean-coding-practices <<Agile software development: Clean coding practices>>
+11) LinkedIn: https://www.linkedin.com/learning/python-design-patterns-14304845 << Python Design Patterns >>
+12) LinkedIn: https://www.linkedin.com/learning/agile-software-development-clean-coding-practices << Agile software development: Clean coding practices >>
+
+
 TBC
