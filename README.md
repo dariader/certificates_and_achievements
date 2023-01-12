@@ -1,7 +1,7 @@
 # certificates_and_achievements
 My scholar google profile with publications: https://scholar.google.com/citations?user=_umwt4AAAAAJ&hl=en
 
-The purpose of this repo to store my endless of completion of the courses
+The purpose of this repo to store my certificates of completion of the courses
 1) https://stepik.org/cert/1840899 << Intro into databases >>
 2) https://stepik.org/cert/1351005 << Programming using Python >>
 3) https://stepik.org/cert/190716 << Molecular Phylogenetics >>
@@ -14,3 +14,4 @@ The purpose of this repo to store my endless of completion of the courses
 10) https://stepik.org/cert/131910 << Git Basics>>
 11) LinkedIn: https://www.linkedin.com/learning/python-design-patterns-14304845 <<Python Design Patterns>>
 12) LinkedIn: https://www.linkedin.com/learning/agile-software-development-clean-coding-practices <<Agile software development: Clean coding practices>>
+TBC
