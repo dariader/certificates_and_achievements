@@ -1,19 +1,24 @@
-# certificates_and_achievements
-My scholar google profile with publications: https://scholar.google.com/citations?user=_umwt4AAAAAJ&hl=en
+# Certificates and Achievements
 
-The purpose of this repo to store my certificates of completion of the courses
-1) https://stepik.org/cert/1840899 << Intro into databases >>
-2) https://stepik.org/cert/1351005 << Programming using Python >>
-3) https://stepik.org/cert/190716 << Molecular Phylogenetics >>
-4) https://stepik.org/cert/185147 << Intro into NGS data analysis >>
-5) https://stepik.org/cert/179070 << Programming using Python #2>>
-6) https://stepik.org/cert/152116 << Data analysis in R >>
-7) https://stepik.org/cert/150160 << Intro into Statistics pt.2 >>
-8) https://stepik.org/cert/139138 << Intro into Statistics >>
-9) https://stepik.org/cert/136124 << Into into Linux >>
-10) https://stepik.org/cert/131910 << Git Basics>>
-11) LinkedIn: https://www.linkedin.com/learning/python-design-patterns-14304845 << Python Design Patterns >>
-12) LinkedIn: https://www.linkedin.com/learning/agile-software-development-clean-coding-practices << Agile software development: Clean coding practices >>
+Welcome to my repository showcasing my educational achievements and certifications in various domains.
 
+## Academic Achievements
 
-TBC
+- [Google Scholar Profile with Publications](https://scholar.google.com/citations?user=_umwt4AAAAAJ&hl=en)
+
+## Certificates
+
+1. [Intro into Databases](https://stepik.org/cert/1840899) - Stepik
+2. [Programming using Python](https://stepik.org/cert/1351005) - Stepik
+3. [Molecular Phylogenetics](https://stepik.org/cert/190716) - Stepik
+4. [Intro into NGS Data Analysis](https://stepik.org/cert/185147) - Stepik
+5. [Programming using Python #2](https://stepik.org/cert/179070) - Stepik
+6. [Data Analysis in R](https://stepik.org/cert/152116) - Stepik
+9. [Intro into Linux](https://stepik.org/cert/136124) - Stepik
+10. [Git Basics](https://stepik.org/cert/131910) - Stepik
+11. [Python Design Patterns](https://www.linkedin.com/learning/python-design-patterns-14304845) - LinkedIn Learning
+12. [Agile Software Development: Clean Coding Practices](https://www.linkedin.com/learning/agile-software-development-clean-coding-practices) - LinkedIn Learning
+13. [Advanced Statistics]() -- Bioinformatics Institute
+14. [Advanced Algorithms in bioinformatics]() -- Bioinformatics Institute
+15. [Additional certification programm: Bioinformatics for biologists]() -- Bioinformatics Institute
+16. [Data Engineering ZoomCamp](https://certificate.datatalks.club/dezoomcamp/2023/63207cbd648305b710d5a12772d8be2cbf4aa231.pdf) -- DataTalks Club
