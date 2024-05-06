@@ -17,6 +17,6 @@
 11. [Python Design Patterns](https://www.linkedin.com/learning/python-design-patterns-14304845) - LinkedIn Learning
 12. [Agile Software Development: Clean Coding Practices](https://www.linkedin.com/learning/agile-software-development-clean-coding-practices) - LinkedIn Learning
 13. [Advanced Statistics]() -- Bioinformatics Institute
-14. [Advanced Algorithms in bioinformatics]() -- Bioinformatics Institute
+14. [Advanced Algorithms in bioinformatics](https://github.com/dariader/certificates_and_achievements/blob/main/AdvancedAlgos.pdf) -- Bioinformatics Institute
 15. [Additional certification programm: Bioinformatics for biologists]() -- Bioinformatics Institute
 16. [Data Engineering ZoomCamp](https://certificate.datatalks.club/dezoomcamp/2023/63207cbd648305b710d5a12772d8be2cbf4aa231.pdf) -- DataTalks Club
