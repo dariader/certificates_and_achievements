@@ -1,7 +1,5 @@
 # Certificates and Achievements
 
-Welcome to my repository showcasing my educational achievements and certifications in various domains.
-
 ## Academic Achievements
 
 - [Google Scholar Profile with Publications](https://scholar.google.com/citations?user=_umwt4AAAAAJ&hl=en)
